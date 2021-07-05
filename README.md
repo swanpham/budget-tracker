@@ -7,19 +7,12 @@
 
 ## Screenshot
 
-
+![image](https://user-images.githubusercontent.com/78882909/124408587-86779380-dd14-11eb-9c23-39d012a6949d.png)
 
 ## Deploy site
 
-
-## Installation
-
-  * Clone the repository to your local machine  
-  * Navigate to the designated folder in bash
-  * * Clone [the starter code](https://github.com/coding-boot-camp/symmetrical-bassoon)  
-  * To install Express.js
-    * [Express.js](http://expressjs.com/) npm package will be installed along with its own dependencies    
-     
+[Budget-Tracker](https://swan-budget.herokuapp.com/)
+   
 ## Usage
 
 ### GIVEN a budget tracker without an internet connection
@@ -37,5 +30,7 @@
   
 ## Built With
 
-- Express.js
-- Javascript
+- MongoDB
+- Node.js
+- Indexdb
+- PWA
